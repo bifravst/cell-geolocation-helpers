@@ -1,0 +1,1 @@
+export default "/_snowpack/pkg/leaflet/dist/images/marker-icon.png";
